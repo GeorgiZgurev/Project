@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "BirthDay"
+    },
+    {
+        "id": 1,
+        "name": "NameDay"
+    },
+    {
+        "id": 2,
+        "name": "Christmas"
+    },
+    {
+        "id": 3,
+        "name": "New Year"
+    },
+    {
+        "id": 4,
+        "name": "Baby born"
+    },
+    {
+        "id": 5,
+        "name": "Anniversary"
+    },
+    {
+        "id": 6,
+        "name": "School Graduation "
+    },
+    {
+        "id": 7,
+        "name": "University Graduation"
+    },
+    {
+        "id": 8,
+        "name": "Marriage"
+    },
+
+    {
+        "id": 9,
+        "name": "Other"
+    }
+]
+ 
